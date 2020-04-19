@@ -1,0 +1,1 @@
+///Cutscene ending bar animation

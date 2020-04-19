@@ -1,0 +1,2 @@
+///Default
+xscale = 384;
